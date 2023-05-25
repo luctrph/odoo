@@ -6,6 +6,7 @@
         Description related to library.
         """,
     'author': "LUCTP",
+    'license': 'LGPL-3',
     'category': "Manager",
     'website': "google.com",
     'depends': ['base'],

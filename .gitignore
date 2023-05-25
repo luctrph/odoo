@@ -1,1 +1,5 @@
 /custom_conf/
+odoo-venv/
+odoo16.conf
+conf/odoo.conf
+conf/odoo16.conf
